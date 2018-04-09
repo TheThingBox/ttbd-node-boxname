@@ -1,0 +1,13 @@
+{
+  "name": "boxname",
+  "version": "1.0.0",
+  "description": "This node returns the network name.",
+  "node-red": {
+    "nodes": {
+      "boxname": "boxname.js"
+    }
+  },
+  "dependencies": {
+    "ttbd-exec": "TheThingBox/ttbd-exec#b3d89e7"
+  }
+}
